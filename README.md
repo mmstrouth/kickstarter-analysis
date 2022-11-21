@@ -32,10 +32,11 @@ According to the line chart titled Outcomes Based on Goal, Kickstarter campaigns
 
 ### Limitations
 The Kickstarter dataset presents some limitations; primarily, the most recent data is from 2017. Since that year, the COVID-19 pandemic has changed the landscape of many aspects of our lives which may have changed the outlook for funding Kickstarter campaigns for live theater. However, more than ever in history, Kickstarter campaigns can be easily shared and spread electronically, possibly leading to additional funding opportunities from more individual donors. 
+
 ### Recommendations for Additional Analysis
 With Louise’s goal in mind, further analyses could be pursued. To provide additional insight into theater outcomes by their launch date, a table showing the percentage of each outcome could be calculated and then displayed with a side-by-side bar graph that reflects the percentage of each outcome, in addition to the initial line chart depicting raw counts shown above. 
 
-INSERT additional graph here
+![This is an image](https://drive.google.com/file/d/19MC_lQbqYvMIS1SWM9zn4HJ--U66AE3G/view?usp=share_link)
 
 When investigating outcomes based on goal ranges for Kickstarter campaigns for plays, a stacked bar graph could provide an additional visual of the percentage of campaigns that succeeded and failed per goal range. 
 
