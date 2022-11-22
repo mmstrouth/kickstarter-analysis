@@ -12,10 +12,13 @@ Using the Kickstarter dataset, two overall analyses were conducted. The first an
 ### Analysis of Outcomes Based on Launch Date
 To perform the analysis of Outcomes Based on Launch date, I ensured the following columns were created: Parent Category, Date Created Conversion, and Years. I then inserted a PivotTable, filtering for years and parent category. The columns reflected the possible outcomes, while each row displayed the month of the launch date and the subsequent counts for each outcome in that month. I then chose Theater as the parent category. To create the chart, I used PivotChart under the PivotTable Analyze menu. I selected the appropriate line graph and added labels for the axes. I copied the chart to the Google Drawings application where I cropped it and downloaded it as a png file. 
 
+![This is an image](https://github.com/mmstrouth/kickstarter-analysis/blob/9fd334dcfdba89573f19830110244dddede0632b/Theater_Outcomes_PivotTable.png)
+
 ![This is an image](https://github.com/mmstrouth/kickstarter-analysis/blob/eea25568d67e6824a6c234b3de216bcb1f9cb4e3/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 To perform the analysis of Outcomes Based on Goals, I set up a new sheet with the following column headers: goals, number successful, number failed, number canceled, total projects, percentage successful, percentage failed, and percentage canceled. I also typed in all the provided goal ranges in the first column. I began with cell B2 and ensured that the criteria were all correct in order to account for the goal range, type of subcategory of plays, and the outcome. I used absolute reference ($) and dragged the formulas to the right in the row and down the column, updating the relevant criteria. To find the total projects, I used the SUM function and summed the prior three columns. The percentage successful was found by using the IFERROR function to account for possible errors when dividing by zero and then dividing the outcome total by total projects. I changed the cell format to % and then dragged the formula down the column. I repeated this process for percentage failed and percentage canceled. To create the chart, I highlighted the relative columns holding the Ctrl key and inserted a line chart. I added the labels to the axes and stretched it out horizontally so that the goal ranges were easy to read. I copied the chart to the Google Drawings application where I cropped it and downloaded it as a png file. 
+
 ![This is an image](https://github.com/mmstrouth/kickstarter-analysis/blob/f8250f06bfd2e8f715e878037499dea9d3ad24a0/Outcomes_Formula_example.png)
  
 ![This is an image](https://github.com/mmstrouth/kickstarter-analysis/blob/6c8563fd7da360ad71d9fd3756dc15c1a040f9be/Outcomes_vs_Goals.png)
