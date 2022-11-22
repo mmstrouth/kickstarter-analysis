@@ -36,7 +36,7 @@ The Kickstarter dataset presents some limitations; primarily, the most recent da
 ### Recommendations for Additional Analysis
 With Louise’s goal in mind, further analyses could be pursued. To provide additional insight into theater outcomes by their launch date, a table showing the percentage of each outcome could be calculated and then displayed with a side-by-side bar graph that reflects the percentage of each outcome, in addition to the initial line chart depicting raw counts shown above. 
 
-![This is an image](https://drive.google.com/file/d/19MC_lQbqYvMIS1SWM9zn4HJ--U66AE3G/view?usp=share_link)
+![This is an image](https://github.com/mmstrouth/kickstarter-analysis/blob/23ce8e0d2d78b989cd30a57e92c5c459528e490d/Theater_Outcomes_Percent.png)
 
 When investigating outcomes based on goal ranges for Kickstarter campaigns for plays, a stacked bar graph could provide an additional visual of the percentage of campaigns that succeeded and failed per goal range. 
 
