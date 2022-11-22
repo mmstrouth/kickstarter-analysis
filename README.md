@@ -40,6 +40,6 @@ With Louise’s goal in mind, further analyses could be pursued. To provide addi
 
 When investigating outcomes based on goal ranges for Kickstarter campaigns for plays, a stacked bar graph could provide an additional visual of the percentage of campaigns that succeeded and failed per goal range. 
 
-INSERT additional graph here 
+![This is an image](https://github.com/mmstrouth/kickstarter-analysis/blob/938854a1cb8dcf5a42c71563691e715f3f05670c/Outcomes_vs_Goals_bar.png)
 
 Since Louise is interested in relative success related to launch date, finding the average length of successful theater, or specifically play, campaigns may be an analysis worth pursuing since she came close to her fundraising goal in a short amount of time. An analysis could provide insight into how her experience compared to other campaigns like hers. 
